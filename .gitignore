@@ -1,0 +1,40 @@
+# Logs
+logs
+*.log
+
+# Config
+config.py
+
+# Database
+*.sqlite3
+
+# Cache and session files
+*.cache
+*.sess
+
+# ENV vars
+.env
+.env.*
+
+# virtualenv
+venv/
+
+# PyInstaller artifacts
+*.spec
+
+# C extensions
+*.so
+*.pyd
+*.dll
+
+# aiogram stuff
+*.webp
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+*.tar.gz
+*.whl
+*.tar.bz2
